@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E6/om2XMiRUC5NxgaJhDnmMWgo6lohEcHVjPO2AfQWijmPlYqQ6cWTnpE54u+rXknJw6M/sbLv0CjWaHEFsAAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anthe\\Desktop\\Repos\\RandomJoke\\Random Joke Generator1\\Random Joke Generator\\Random Joke Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anthe\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

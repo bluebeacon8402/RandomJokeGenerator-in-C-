@@ -1,0 +1,15 @@
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\obj\Debug\netcoreapp3.1\Random Joke Generator.csprojAssemblyReference.cache
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\obj\Debug\netcoreapp3.1\Random Joke Generator.AssemblyInfoInputs.cache
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\obj\Debug\netcoreapp3.1\Random Joke Generator.AssemblyInfo.cs
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\obj\Debug\netcoreapp3.1\Random Joke Generator.csproj.CoreCompileInputs.cache
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\bin\Debug\netcoreapp3.1\Random Joke Generator.exe
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\bin\Debug\netcoreapp3.1\Random Joke Generator.deps.json
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\bin\Debug\netcoreapp3.1\Random Joke Generator.runtimeconfig.json
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\bin\Debug\netcoreapp3.1\Random Joke Generator.runtimeconfig.dev.json
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\bin\Debug\netcoreapp3.1\Random Joke Generator.dll
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\bin\Debug\netcoreapp3.1\Random Joke Generator.pdb
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\obj\Debug\netcoreapp3.1\Random Joke Generator.csproj.CopyComplete
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\obj\Debug\netcoreapp3.1\Random Joke Generator.dll
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\obj\Debug\netcoreapp3.1\Random Joke Generator.pdb
+C:\Users\Anthe\Desktop\Repos\RandomJoke\Random Joke Generator1\Random Joke Generator\obj\Debug\netcoreapp3.1\Random Joke Generator.genruntimeconfig.cache
